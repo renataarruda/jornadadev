@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jornadadev/static/css/main.d8876baf.css",
+    "main.js": "/jornadadev/static/js/main.d38ff104.js",
+    "index.html": "/jornadadev/index.html",
+    "main.d8876baf.css.map": "/jornadadev/static/css/main.d8876baf.css.map",
+    "main.d38ff104.js.map": "/jornadadev/static/js/main.d38ff104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8876baf.css",
+    "static/js/main.d38ff104.js"
+  ]
+}
